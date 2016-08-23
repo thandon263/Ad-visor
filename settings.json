@@ -1,0 +1,23 @@
+{
+  "public": {},
+  "private": {
+    "oAuth": {
+      "facebook": {
+        "appId": "521357438049974",
+        "secret": "30b4ec29384ef72a93f8ce595d63facd"
+      },
+      "github": {
+        "clientId": "e8b553b3f88f5f7820b3",
+        "secret": "d890dc21cd80a126d4a21c15051994a52476f2b3"
+      },
+      "google": {
+        "clientId": "273357023039-hoh23v3loqg2j0pasmk01d5206ugejjv.apps.googleusercontent.com",
+        "secret": "1piPszimBCkt122u0zop4akE"
+      },
+      "twitter": {
+        "consumerKey": "z9iJSezxJU6Po8KAk3hAfAHam",
+        "secret": "OXaOR7FpF3VmP3CnJHtY6LXS5fiuxssmNFSpBSP3hmwg0niBAU"
+      }
+    }
+  }
+}
