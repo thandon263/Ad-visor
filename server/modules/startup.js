@@ -1,11 +1,11 @@
 let startup = () => {
-  [...]
-  Modules.server.configureServices();
-  [...]
+
+Modules.server.configureServices();
+
 };
 
 var _setBrowserPolicies = () => {
-  [...]
+
 };
 
 Modules.server.startup = startup;
